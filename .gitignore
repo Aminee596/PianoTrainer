@@ -1,0 +1,12 @@
+build/
+out/
+.cache/
+*.user
+.vs/
+compile_commands.json
+node_modules/
+assets/audio/_to_delete/
+
+assets/pieces/Offenbach - Can-can.mid
+assets/pieces/Hans Zimmer - Interstellar.mid
+assets/Wallpaper0.png
